@@ -1,0 +1,15 @@
+@import "tailwindcss/base";
+
+@import "tailwindcss/components";
+
+@import "tailwindcss/utilities";
+
+.main{
+    /* background-image: url("/images/laptop.jpg");  */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    height: 600px;
+   
+}
